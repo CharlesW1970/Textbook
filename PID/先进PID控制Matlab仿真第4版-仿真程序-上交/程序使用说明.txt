@@ -1,0 +1,11 @@
+光盘使用说明
+
+1、所有仿真算法按章归类，光盘中的程序名与书中一一对应。
+2、将光盘中的仿真程序复制到硬盘MATLAB运行的路径中，便可仿真运行。
+3、本书算法在MATLAB 5.3版下运行成功，并适用于其他版本。
+4、程序chap1_11.mdl；chap3_2.mdl；chap3_5.mdl；chap6_2.mdl；chap6_4.mdl需要在Matlab6.5下运行，特此说明。
+5、假如您对仿真程序有疑问，请及时通过 E-mail 与作者联系。
+
+
+北京航空航天大学  刘金琨
+E-mail 地址： ljk@dept3.buaa.edu.cn或ljk@buaa.edu.cn
